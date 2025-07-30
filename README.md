@@ -44,3 +44,6 @@ This initiative showcases a **wheelchair controlled by voice** utilizing the **E
 ---
 
 ## 📂 Structure of the Project
+## 📸 Preview
+
+![Hardware Setup](images/hardware-setup.jpg)
